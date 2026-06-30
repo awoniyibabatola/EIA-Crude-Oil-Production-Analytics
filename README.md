@@ -88,8 +88,6 @@ The Power BI dashboard provides:
 - Production trends over time (year / quarter / month)
 - Interactive slicers for filtering
 
-*(Dashboard screenshots in the `/images` folder.)*
-
 ---
 
 ## Repository Contents
